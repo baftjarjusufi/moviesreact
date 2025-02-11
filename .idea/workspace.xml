@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a802f22-bc0e-4bd1-b572-512b8c1a1eaa" name="Changes" comment="test">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/eslint.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/public/vite.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/src/App.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/src/assets/react.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/src/main.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/vite.config.js" beforeDir="false" />
-    </list>
+    <list default="true" id="5a802f22-bc0e-4bd1-b572-512b8c1a1eaa" name="Changes" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739289813738</updated>
-      <workItem from="1739289815117" duration="3950000" />
+      <workItem from="1739289815117" duration="4256000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
@@ -117,7 +102,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739292715429</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <option name="closed" value="true" />
+      <created>1739294055333</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739294055333</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test">
+      <option name="closed" value="true" />
+      <created>1739294221787</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739294221787</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
