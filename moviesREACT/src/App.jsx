@@ -1,6 +1,6 @@
 const Card = ({title }) => {
   return (
-    <div>
+    <div className="card">
       <h2>{title}</h2>
     </div>
   )
@@ -10,12 +10,12 @@ const Card = ({title }) => {
 
   const App = () => {
   return (
-    <div>
-    <h2>Functional Arrow Component</h2>
+    <div className="card-container">
 
-    <Card  title ="Star Wars"/>
+    <Card  title ="Star Wars " rating={5} isCool={true}   />
     <Card  title ="Avatar "/>
     <Card  title ="The lion King."/>
+
     </div>
 
   )
