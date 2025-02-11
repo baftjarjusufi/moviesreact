@@ -11,7 +11,7 @@ const Card = ({title }) => {
   const App = () => {
   return (
     <div>
-    <h2>Functional Arrow Component TEST1111111222222222222223333333333333333333</h2>
+    <h2>Functional Arrow Component TEST11111112222222222222233333332222222222222222333333333333</h2>
 
     <Card  title ="Star Wars"/>
     <Card  title ="Avatar "/>
