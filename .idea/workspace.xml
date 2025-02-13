@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a802f22-bc0e-4bd1-b572-512b8c1a1eaa" name="Changes" comment="added tailwind framework">
-      <change afterPath="$PROJECT_DIR$/moviesREACT/public/No-Poster (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moviesREACT/public/hero-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moviesREACT/public/hero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moviesREACT/public/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moviesREACT/public/no-movie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moviesREACT/public/search.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moviesREACT/public/star.svg" afterDir="false" />
+    <list default="true" id="5a802f22-bc0e-4bd1-b572-512b8c1a1eaa" name="Changes" comment="Tailwind css style optimized , added 3 new react components , styling , and added and fetched api for movies from tmdb database for most recent relevant movies sorted and designed with postcard.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moviesREACT/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/moviesREACT/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/moviesREACT/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moviesREACT/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/moviesREACT/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/moviesREACT/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/moviesREACT/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moviesREACT/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/moviesREACT/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +95,8 @@
       <workItem from="1739295425061" duration="664000" />
       <workItem from="1739296103712" duration="3025000" />
       <workItem from="1739376369377" duration="202000" />
-      <workItem from="1739376580569" duration="7562000" />
+      <workItem from="1739376580569" duration="8080000" />
+      <workItem from="1739460260079" duration="5396000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
@@ -264,7 +258,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739377623616</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Tailwind css style optimized , added 3 new react components , styling , and added and fetched api for movies from tmdb database for most recent relevant movies sorted and designed with postcard.">
+      <option name="closed" value="true" />
+      <created>1739384499444</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1739384499444</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Tailwind css style optimized , added 3 new react components , styling , and added and fetched api for movies from tmdb database for most recent relevant movies sorted and designed with postcard.">
+      <option name="closed" value="true" />
+      <created>1739384563720</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1739384563720</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,6 +297,7 @@
     <MESSAGE value="test" />
     <MESSAGE value="simple styling" />
     <MESSAGE value="added tailwind framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="added tailwind framework" />
+    <MESSAGE value="Tailwind css style optimized , added 3 new react components , styling , and added and fetched api for movies from tmdb database for most recent relevant movies sorted and designed with postcard." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tailwind css style optimized , added 3 new react components , styling , and added and fetched api for movies from tmdb database for most recent relevant movies sorted and designed with postcard." />
   </component>
 </project>
