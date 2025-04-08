@@ -50,11 +50,11 @@ Demo website : https://moviesreact.pages.dev/
 ## 📸 Screenshots in case the demo website doesnt work 
 
 ![App Screenshot](./moviesREACT/public/screenshot1.png)
-![App Screenshot](./screenshot2.png)
-![App Screenshot](./screenshot3.png)
-![App Screenshot](./screenshot4.png)
-![App Screenshot](./gif1.png)
-![App Screenshot](./gif2.png)
-![App Screenshot](./gif3.png)
+![App Screenshot](./moviesREACT/public/screenshot2.png)
+![App Screenshot](./moviesREACT/public/screenshot3.png)
+![App Screenshot](./moviesREACT/public/screenshot4.png)
+![App Screenshot](./moviesREACT/public/gif1.png)
+![App Screenshot](./moviesREACT/public/gif2.png)
+![App Screenshot](./moviesREACT/public/gif3.png)
 
 
