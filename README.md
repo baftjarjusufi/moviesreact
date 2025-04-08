@@ -1,6 +1,6 @@
 # 🎬 MoviesReact
 
-**MoviesReact** is a simple React app that fetches and displays movies using the [TMDB API]([https://www.omdbapi.com/](developer.themoviedb.org/). It allows users to search for movies by title and view basic information like poster, title, and release year.
+**MoviesReact** is a simple React app that fetches and displays movies using the [TMDB API]([developer.themoviedb.org/]. It allows users to search for movies by title and view basic information like poster, title, and release year.
 
 ## 🚀 Features
 
