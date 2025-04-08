@@ -27,19 +27,19 @@
    cd moviesreact
 2. Install dependencies:
 
-npm install
+     - npm install
 
 3. Set up Appwrite:
 
-   Make sure you have an Appwrite instance (self-hosted or cloud).
+  - Make sure you have an Appwrite instance (self-hosted or cloud).
 
-   Create a project and database with the required collections.
+  - Create a project and database with the required collections.
 
-   Add your Appwrite credentials (project ID, endpoint) in the app (usually in a .env file).
+  - Add your Appwrite credentials (project ID, endpoint) in the app (usually in a .env file).
 
 4. Start the development server:
 
-npm start
+     - npm start
 
 
 🌍 Live Demo
