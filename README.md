@@ -63,6 +63,10 @@ Demo website : https://moviesreact.pages.dev/
 
 ![App Screenshot](./moviesREACT/public/gif3.png)
 
+## 📸 Gif !!
+
+![App GIF](./moviesREACT/public/giffull.gif)
+
 
 
 
