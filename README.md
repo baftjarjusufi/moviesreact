@@ -49,7 +49,7 @@ Demo website : https://moviesreact.pages.dev/
 
 ## 📸 Screenshots in case the demo website doesnt work 
 
-![App Screenshot](./screenshot1.png)
+![App Screenshot](./public/screenshot1.png)
 ![App Screenshot](./screenshot2.png)
 ![App Screenshot](./screenshot3.png)
 ![App Screenshot](./screenshot4.png)
