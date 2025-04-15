@@ -16,6 +16,7 @@
 - React Vite (with Hooks and States)
 - JavaScript (ES6)
 - CSS
+- Laravel
 - TMDB API
 - Appwrite (for cloud storage)
 
